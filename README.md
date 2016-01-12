@@ -2,7 +2,7 @@
 
 Projet en Lua avec Love2d (Löve) Os : Windows 8.1
 
-Petit jeu-vidéo 2D de Shut Them Up pour voir la mécanique d'un jeu simple.
+Petit jeu-vidéo 2D de Shoot Them Up pour voir la mécanique d'un jeu simple.
 
 EXECUTION
 
